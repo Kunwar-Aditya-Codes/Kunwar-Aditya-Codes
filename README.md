@@ -7,10 +7,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cooking and I love to play outdoor sports.
 
+
+
+TOP LANGUAGES :
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunwar-Aditya-Codes&langs_count=8&theme=radical">
+
+CODING TIME :
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KunwarAdityaCodes&theme=radical" >
 
+STATS :
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kunwar-Aditya-Codes&show_icons=true&theme=radical">
 
