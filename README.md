@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Amazon clone with Nextjs and Web3 tech
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently working on College Erp System
 - 💬 Ask me about Mern Developement
 - 📫 How to reach me: LinkedIn ["https://www.linkedin.com/in/kunwar-aditya-117633191/"]
 - 😄 Pronouns: He/Him
