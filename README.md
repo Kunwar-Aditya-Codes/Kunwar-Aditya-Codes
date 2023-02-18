@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a 3rd year student pursuing engineering<br>🔭 I’m currently working on Mern Chat App (Advance features) & ERP System<br>🌱 I’m currently learning Svelte<br>💬 Ask me about MERN , Tailwindcss etc<br>
+🎓 I'm currently a 3rd year student pursuing engineering<br>🔭 I’m currently working on Mern Chat App (Advance features) & ERP System<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about MERN , Tailwindcss etc<br>
 
 
 ## 🌐 Socials:
