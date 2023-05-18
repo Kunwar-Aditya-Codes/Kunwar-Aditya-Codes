@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a 3rd year student pursuing engineering<br>🔭 I’m currently working on Mern Erp System & Nextjs 13 Chat App<br>🌱 I’m currently learning Nextjs & React Native<br>💬 Ask me about MERN , Tailwindcss etc<br>
+🎓 I'm currently a 4th year student pursuing engineering<br>🔭 I’m currently working on Mern Erp System & Nextjs 13 Chat App<br>🌱 I’m currently learning Nextjs & React Native<br>💬 Ask me about MERN , Tailwindcss etc<br>
 
 
 ## 🌐 Socials:
