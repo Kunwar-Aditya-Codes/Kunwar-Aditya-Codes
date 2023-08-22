@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a 4th year student pursuing engineering<br>🔭 I’m currently working on Ecommerce Website<br>🌱 I’m currently learning Dsa<br>💬 Ask me about MERN , Tailwindcss etc<br>
+🎓 I'm currently a 4th year student pursuing engineering<br>🔭 I’m currently working on Banking & Expense Tracking App<br>🌱 I’m currently learning Dsa<br>💬 Ask me about MERN , Tailwindcss etc<br>
 
 
 ## 🌐 Socials:
