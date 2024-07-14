@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a 4th year student pursuing engineering<br>🔭 I’m currently working on Banking & Expense Tracking App<br>🌱 I’m currently learning Dsa<br>💬 Ask me about MERN , Tailwindcss etc<br>
+🎓 I'm currently Associate IT Consultant at ITC Infotech.<br>🔭 I’m currently working on Chat app w/ Video Call.<br>🌱 I’m currently learning Go<br>💬 Ask me about Web Developement.<br>
 
 
 ## 🌐 Socials:
