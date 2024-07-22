@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chat app w/ Video Call.<br>🌱 I’m currently learning Go<br>💬 Ask me about Web Developement.<br>
+🔭 I’m currently working on a Saas Collaborative Whiteboard App.<br>🌱 I’m currently learning Python for AI and Machine Learning.<br>💬 Ask me about Web Developement.<br>
 
 
 ## 🌐 Socials:
